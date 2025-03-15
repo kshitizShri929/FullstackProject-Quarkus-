@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import './index.css';
+import "../index.css";
 
 
 export default function EmployeeList() {
